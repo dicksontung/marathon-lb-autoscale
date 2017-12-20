@@ -1,3 +1,6 @@
+Forked for Dockerhub build:
+see: https://hub.docker.com/r/dixont/marathon-lb-autoscale/
+
 # marathon-lb-autoscale
 
 This is an example of how to use marathon-lb to implement request rate based
